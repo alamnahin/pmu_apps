@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>add.png</file>
+        <file>calibrate.png</file>
+        <file>refresh.png</file>
+        <file>remove.png</file>
+        <file>control-panel.png</file>
+        <file>back.png</file>
+        <file>close.png</file>
+        <file>menu.png</file>
+        <file>menu(1).png</file>
+        <file>hamburger.png</file>
+        <file>monitor.png</file>
+        <file>pause.png</file>
+        <file>meter.png</file>
+        <file>more.png</file>
+        <file>return.png</file>
+        <file>delete.png</file>
+        <file>vector.png</file>
+        <file>waves.png</file>
+        <file>play.png</file>
+        <file>dashed-line.png</file>
+        <file>reload.png</file>
+        <file>x.png</file>
+    </qresource>
+</RCC>
